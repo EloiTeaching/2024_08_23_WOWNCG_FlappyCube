@@ -1,0 +1,4 @@
+https://github.com/EloiTeaching/2024_08_23_WOWNCG_OneInputGame.git
+https://github.com/EloiTeaching/2024_08_23_WOWNCG_SurvivalGameTime.git
+https://github.com/EloiTeaching/2024_08_23_WOWNCG_MyDrawableCube.git
+https://github.com/EloiTeaching/2024_08_23_WOWNCG_QuickScriptTagCollision.git

@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.flappycubegame",                              
+  "displayName": "Flappy Cube Game Demo",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Simple flappy game type with a cube limited by ground and ceiling. Drag and drop able. ",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiTeaching/2024_08_23_WOWNCG_FlappyCube.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
